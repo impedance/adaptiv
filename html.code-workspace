@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/htmlAcad_1/project/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "adaptiv"
+	}
+}
